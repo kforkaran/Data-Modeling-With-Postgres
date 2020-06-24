@@ -17,7 +17,7 @@ I create a star schema as shown below, which includes
 - one fact table: **songplays**, and
 - four dimension tables: **users**, **songs**, **artists** and **time**.
 
-<img src="star_schema.jpg" width="400"/>
+<img src="star_schema.png" width="400"/>
 
 ### Exmaples queries
 
